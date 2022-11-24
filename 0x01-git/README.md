@@ -1,1 +1,1 @@
-git folder
+ “Starting to code today, so cool”
